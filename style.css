@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(180, 213, 247);
+}
+
+#navi{
+    background-color: rgb(130, 172, 215);
+    margin: 10px 0 0 0;
+    padding: 15px 0 ;
+    font-size: 20px;
+    text-align: right;
+    width:auto;
+    height: 30px;
+    font-family: Serif;
+    
+}
+.navi_item{
+    color:rgb(0, 0, 0);
+    margin-bottom: 40px;
+    padding: 0 10px 10px 10px;
+    display: inline;
+   
+    text-decoration: none;
+}
+.navi_item:hover{
+    border-bottom: 5px solid rgb(63, 125, 188);
+    
+}
+.video{
+ margin: 40px 5px 5px 10px;
+ border: 10px solid rgba(80, 147, 184, 0.829);
+ border-radius:10px;
+} 
